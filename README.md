@@ -24,7 +24,7 @@
 ## ⚠️ Project Status
 
 > 🚧 Due to some recent system issues, the **main source code and components have been temporarily removed** from the repository.  
-> We are actively working on **rebuilding and restoring** the project components.
+> I am actively working on **rebuilding and restoring** the project components.
 
 🔧 Expect updates soon with a working version, complete with code, documentation, and deployment instructions.
 
