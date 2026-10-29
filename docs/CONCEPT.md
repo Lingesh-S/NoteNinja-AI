@@ -1,6 +1,6 @@
 # NoteNinja: concept
 
-**Status:** proposal, revised after first review · **Date:** 2026-10-29 · **Replaces:** the "chat with your lecture notes" idea in the old README
+**Status:** approved on 2026-10-29 · **Replaces:** the "chat with your lecture notes" idea in the old README · **Next:** [ARCHITECTURE.md](ARCHITECTURE.md), [ROADMAP.md](ROADMAP.md)
 
 > **Your notes, reviewed.** NoteNinja compares the notes you took with the lecture you took them from. It shows what you missed and what you wrote down differently, and links every finding to the moment in the recording. Then it quizzes you on just those gaps. It runs on your own computer with free, open-source models.
 
