@@ -17,7 +17,7 @@ Every phase must leave the project releasable: no half-built features on the mai
 
 | Phase | Goal | Status |
 |---|---|---|
-| 0 | Concept, architecture and roadmap | In review |
+| 0 | Concept, architecture and roadmap | Done |
 | 1 | MVP: review captions against Markdown or text notes | Next |
 | 2 | Audio, video and typed note formats | Planned |
 | 3 | Review UI | Planned |
@@ -39,7 +39,7 @@ Every phase must leave the project releasable: no half-built features on the mai
 
 **Done criteria:**
 - [x] Concept approved (2026-10-29)
-- [ ] Architecture and roadmap approved
+- [x] Architecture and roadmap approved (2026-10-29)
 
 ---
 
