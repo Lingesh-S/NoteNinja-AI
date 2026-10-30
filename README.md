@@ -43,5 +43,5 @@
 
 ## 📌 Credits
 
-Made with 💡 by [Lingesh S](https://github.com/yourusername)
+Made with 💡 by [Lingesh S](https://github.com/Lingesh-S)
 
